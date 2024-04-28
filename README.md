@@ -4,7 +4,7 @@ This repository contains a collection of machine learning models developed to so
 
 ## Overview
 
-This repository showcases the implementation of different machine learning algorithms to address real-world problems. Each of these project gave me a clear understanding of how real world machine learning projects works and better understanding of the problem
+This repository contains the implementation of different machine learning algorithms to address real-world problems. Each of these project gave me a clear understanding of how real world machine learning projects works and better understanding of the problem
 
 ## Key Projects
 
